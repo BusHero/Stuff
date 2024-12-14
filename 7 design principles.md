@@ -1,0 +1,7 @@
+1. [[Conceptual model]]
+2. [[discoverability]]
+3. [[affordances]]
+4. [[signifiers]]
+5. [[mappers]]
+6. [[constraints]]
+7. [[feedback]]
