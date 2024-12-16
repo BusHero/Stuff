@@ -48,3 +48,12 @@ There is [[knowledge in the head]] and [[knowledge in the world]]. We combine bo
 - lock-ins - keeps an operation active
 - lockouts - prevents people from entering dangerous places
 
+## Slips vs errors
+
+There are 2 types of human errors: slips and errors
+
+> Designers need to avoid procedures that have identical opening steps but then diverge.
+
+> Designers need to ensure that controls and displays for different purposes are significantly different from one another.
+
+
