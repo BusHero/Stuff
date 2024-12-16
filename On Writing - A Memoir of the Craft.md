@@ -1,0 +1,5 @@
+---
+tags:
+  - book
+---
+[[Creative Inspiration]]

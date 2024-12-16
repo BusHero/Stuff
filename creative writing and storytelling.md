@@ -1,0 +1,5 @@
+[[academic writing]]
+[[Creative Inspiration]]
+[[Persuasive and Business-Oriented Storytelling]]
+[[Storytelling for Nonfiction and Communication]]
+[[General Storytelling and structure]]
