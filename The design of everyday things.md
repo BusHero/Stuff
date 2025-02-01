@@ -96,10 +96,6 @@ There are 2 types of human errors: slips and errors
 - rule-based
 - knowledge-based
 
-## Books
-- [[The Design of Future Things]]
-
-
 2 people should follow a checklist. One checks the checklist, one executes the actions.
 
 ### 3 types of goals
